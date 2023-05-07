@@ -10,7 +10,7 @@ module.exports = {
       network_id: "*"
     },
     sepolia: {
-      provider: () => new HDWalletProvider('lawsuit alter connect round bus casual collect hidden mass piano ridge sweet', 'https://sepolia.infura.io/v3/57907d2015214f31808056178b3d8201'),
+      provider: () => new HDWalletProvider('', ''),
       network_id: '11155111',
       gas: 4465030
     }
